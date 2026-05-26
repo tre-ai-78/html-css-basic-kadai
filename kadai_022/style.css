@@ -81,6 +81,7 @@ footer a:hover {
     }
 
     #parent {
-        display: block;
+        display: flex;
+        flex-direction: column;
     }
 }
